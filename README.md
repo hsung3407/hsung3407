@@ -1,3 +1,5 @@
+myst_links_external_new_tab = True
+
 <div align="center"><h1>HSung's Hub</h1></div>
 
 <div align="center">
