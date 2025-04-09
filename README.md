@@ -1,5 +1,3 @@
-myst_links_external_new_tab = True
-
 <div align="center"><h1>HSung's Hub</h1></div>
 
 <div align="center">
@@ -8,3 +6,7 @@ myst_links_external_new_tab = True
 Email : azxccxzavv3407@gmail.com
 Portforlio : <a href="https://dented-ray-2af.notion.site/11fafdae07fa8006bf68d29d8e1cf98b?pvs=4" target="blank">Notion Link</a>
 </div>
+
+<script>
+  myst_links_external_new_tab = True
+</script>
