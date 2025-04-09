@@ -1,7 +1,7 @@
 ## HSung's Hub
 
 
-**hsung3407/hsung3407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+현재 **게임 클라이언트 개발**을 공부하고 있습니다.
 
 Here are some ideas to get you started:
 
