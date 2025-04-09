@@ -1,4 +1,4 @@
-<div align="center">## HSung's Hub</div>
+<div align="center"><h1>HSung's Hub</h1></div>
 
 <div align="center">
 현재 **게임 클라이언트 개발**을 공부하며 관련 역량을 키우기 위해 노력하고 있습니다.
